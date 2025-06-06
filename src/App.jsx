@@ -39,7 +39,7 @@ function App() {
       </section>
 
       <footer className="footer">
-        © 2025 Your Company | <a href="https://your-website.com">your-website.com</a>
+        © 2025 Your Company | <a href="https://shinkyowa.web.fc2.com/">your-website.com</a>
       </footer>
     </div>
   );
