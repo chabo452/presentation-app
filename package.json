@@ -1,8 +1,8 @@
 {
   "name": "presentation-app",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
-  "homepage": "https://chabo452.github.io/business-presentation-app",
+  "homepage": "https://chabo452.github.io/presentation-app",
   "scripts": {
   "dev": "vite",
   "build": "vite build",

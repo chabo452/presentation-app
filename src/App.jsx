@@ -12,7 +12,7 @@ function App() {
     <div className="app-container">
       <header className="header">
         <h1>Business Presentation</h1>
-        <p>現場発のポップアップ・ディストリビューション戦略</p>
+        <p>現場から始まるポップアップ・ディストリビューション戦略</p>
       </header>
 
       <section className="section">
